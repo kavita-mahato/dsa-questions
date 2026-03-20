@@ -4,21 +4,21 @@
 ## Easy (18 Problems)
 | # | Problem | Platform | Link | Pattern | Difficulty |
 |---|---------|----------|------|---------|------------|
-|1 ✔ |Bubble Sort|GFG|https://practice.geeksforgeeks.org/problems/bubble-sort/1|Bubble Sort|Easy|
-|2 ✔ |Selection Sort|GFG|https://practice.geeksforgeeks.org/problems/selection-sort/1|Selection Sort|Easy|
-|3 ✔ |Insertion Sort|GFG|https://practice.geeksforgeeks.org/problems/insertion-sort/1|Insertion Sort|Easy|
-|4 ✔ |Intersection of 2 Sorted Arrays|GFG|https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays/1|Two Pointers|Easy|
-|5 ✔ |Union of 2 Sorted Arrays|GFG|https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1|Two Pointers|Easy|
-|6 ✔ |Sort an Array of 0s, 1s, 2s|LC|https://leetcode.com/problems/sort-colors/|Dutch National|Easy|
-|7 ✔ |Check if Array is Sorted|GFG|https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1|Scanning|Easy|
+|1 |Bubble Sort|GFG|https://practice.geeksforgeeks.org/problems/bubble-sort/1|Bubble Sort|Easy|
+|2 |Selection Sort|GFG|https://practice.geeksforgeeks.org/problems/selection-sort/1|Selection Sort|Easy|
+|3 |Insertion Sort|GFG|https://practice.geeksforgeeks.org/problems/insertion-sort/1|Insertion Sort|Easy|
+|4 |Intersection of 2 Sorted Arrays|GFG|https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays/1|Two Pointers|Easy|
+|5 |Union of 2 Sorted Arrays|GFG|https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1|Two Pointers|Easy|
+|6 |Sort an Array of 0s, 1s, 2s|LC|https://leetcode.com/problems/sort-colors/|Dutch National|Easy|
+|7 |Check if Array is Sorted|GFG|https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1|Scanning|Easy|
 |8 |Minimum Distance Between Largest and Smallest|LC|https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/|Sorting|Easy|
 |9 |Sort Array by First and Last Digit|LC|https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/|Custom Sort|Easy|
 |10 |Sort Binary Array|GFG|https://www.geeksforgeeks.org/problems/binary-array-sorting-1587115620/1|Partitioning|Easy|
 |11 |Relative Sorting|GFG|https://practice.geeksforgeeks.org/problems/relative-sorting/1|Custom Sort|Easy|
 |12 |Sort Elements by Frequency|GFG|https://www.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency-1587115621/1|Hashing+Sort|Easy|
-|13 ✔ |Merge Two Sorted Arrays|GFG|https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1|Merge|Easy|
-|14 ✔ |Kth Smallest Element|GFG|https://practice.geeksforgeeks.org/problems/kth-smallest-element/1|QuickSelect|Easy|
-|15 ✔ |Chocolate Distribution|GFG|https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0|Sorting|Easy|
+|13 |Merge Two Sorted Arrays|GFG|https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1|Merge|Easy|
+|14 |Kth Smallest Element|GFG|https://practice.geeksforgeeks.org/problems/kth-smallest-element/1|QuickSelect|Easy|
+|15 |Chocolate Distribution|GFG|https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0|Sorting|Easy|
 |16 |Sort Array with 3 Types|GFG|https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/1|Dutch National|Easy|
 |17 |Next Permutation|LC|https://leetcode.com/problems/next-permutation/|Permutation|Easy|
 |18 |Pascal's Triangle|LC|https://leetcode.com/problems/pascals-triangle/|Sorting Pattern|Easy|
