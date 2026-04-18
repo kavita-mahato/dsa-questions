@@ -6,21 +6,21 @@
 
 | # | Problem | Platform | Link | Pattern |
 |---|---------|----------|------|---------|
-|1|Factorial|GFG|https://practice.geeksforgeeks.org/problems/factorial0058/1|Basic Recursion|
-|2|Fibonacci Number|LC|https://leetcode.com/problems/fibonacci-number/|Base Cases|
-|3|Power Function|GFG|https://practice.geeksforgeeks.org/problems/power-function2578/1|Tail Recursion|
-|4|Sum of Digits|GFG|https://practice.geeksforgeeks.org/problems/sum-of-digits3549/1|Digit Recursion|
-|5|Decimal to Binary|GFG|https://practice.geeksforgeeks.org/problems/decimal-to-binary0856/1|Base Conversion|
-|6|GCD Recursive|GFG|https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers0347/1|Euclidean Algorithm|
-|7|Palindrome Check Recursive|GFG|https://practice.geeksforgeeks.org/problems/palindrome-using-recursion0933/1|String Recursion|
-|8|Print 1 to N|GFG|https://practice.geeksforgeeks.org/problems/print-1-to-n-1453728/1|Forward Recursion|
-|9|Print N to 1|GFG|https://practice.geeksforgeeks.org/problems/print-pattern/1|Backward Recursion|
-|10|Count Digits|GFG|https://practice.geeksforgeeks.org/problems/count-digits5716/1|Digit Count Recursion|
-|11|Product of Digits|GFG|https://practice.geeksforgeeks.org/problems/product-of-digits/1|Digit Product|
-|12|Trailing Zeroes in Factorial|GFG|https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial/1|Math Recursion|
+|1✅|Factorial|GFG|https://practice.geeksforgeeks.org/problems/factorial0058/1|Basic Recursion|
+|2✅|Fibonacci Number|LC|https://leetcode.com/problems/fibonacci-number/|Base Cases|
+|3✅|Power Function|GFG|https://practice.geeksforgeeks.org/problems/power-function2578/1|Tail Recursion|
+|4✅|Sum of Digits|GFG|https://practice.geeksforgeeks.org/problems/sum-of-digits3549/1|Digit Recursion|
+|5✅|Decimal to Binary|GFG|https://practice.geeksforgeeks.org/problems/decimal-to-binary0856/1|Base Conversion|
+|6✅|GCD Recursive|GFG|https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers0347/1|Euclidean Algorithm|
+|7✅|Palindrome Check Recursive|GFG|https://practice.geeksforgeeks.org/problems/palindrome-using-recursion0933/1|String Recursion|
+|8✅|Print 1 to N|GFG|https://practice.geeksforgeeks.org/problems/print-1-to-n-1453728/1|Forward Recursion|
+|9✅|Print N to 1|GFG|https://practice.geeksforgeeks.org/problems/print-pattern/1|Backward Recursion|
+|10✅|Count Digits|GFG|https://practice.geeksforgeeks.org/problems/count-digits5716/1|Digit Count Recursion|
+|11✅|Product of Digits|GFG|https://practice.geeksforgeeks.org/problems/product-of-digits/1|Digit Product|
+|12✅|Trailing Zeroes in Factorial|GFG|https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial/1|Math Recursion|
 |13|Fibonacci Digit Sum|GFG|https://practice.geeksforgeeks.org/problems/sum-of-digits-of-fibonacci-numbers/1|Composite Recursion|
-|14|Reverse Digits Recursively|GFG|https://practice.geeksforgeeks.org/problems/reverse-digits/1|Number Reversal|
-|15|Count Set Bits Recursive|GFG|https://practice.geeksforgeeks.org/problems/set-bits/1|Bit Recursion|
+|14✅|Reverse Digits Recursively|GFG|https://practice.geeksforgeeks.org/problems/reverse-digits/1|Number Reversal|
+|15✅|Count Set Bits Recursive|GFG|https://practice.geeksforgeeks.org/problems/set-bits/1|Bit Recursion|
 
 ## Medium (20 Problems)
 **Master backtracking, divide-conquer, tree recursion**
