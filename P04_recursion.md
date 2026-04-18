@@ -27,9 +27,9 @@
 
 | # | Problem | Platform | Link | Pattern |
 |---|---------|----------|------|---------|
-|16|Subsets|LC|https://leetcode.com/problems/subsets/|Backtracking|
-|17|Tower of Hanoi|GFG|https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1|Classic 3-Step|
-|18|Josephus Problem|GFG|https://practice.geeksforgeeks.org/problems/josephus-problem/1|Circular Recursion|
+|16✅|Subsets|LC|https://leetcode.com/problems/subsets/|Backtracking|
+|17✅|Tower of Hanoi|GFG|https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1|Classic 3-Step|
+|18✅|Josephus Problem|GFG|https://practice.geeksforgeeks.org/problems/josephus-problem/1|Circular Recursion|
 |19|Rod Cutting|GFG|https://practice.geeksforgeeks.org/problems/rod-cutting0840/1|1D DP Recursion|
 |20|Merge Sort Recursive|GFG|https://practice.geeksforgeeks.org/problems/merge-sort/1|Divide & Conquer|
 |21|Quick Sort Recursive|GFG|https://practice.geeksforgeeks.org/problems/quick-sort/1|Partition Recursion|
