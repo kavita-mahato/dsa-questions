@@ -30,11 +30,11 @@
 |16✅|Subsets|LC|https://leetcode.com/problems/subsets/|Backtracking|
 |17✅|Tower of Hanoi|GFG|https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1|Classic 3-Step|
 |18✅|Josephus Problem|GFG|https://practice.geeksforgeeks.org/problems/josephus-problem/1|Circular Recursion|
-|19|Rod Cutting|GFG|https://practice.geeksforgeeks.org/problems/rod-cutting0840/1|1D DP Recursion|
+|19✅|Rod Cutting|GFG|https://practice.geeksforgeeks.org/problems/rod-cutting0840/1|1D DP Recursion|
 |20|Merge Sort Recursive|GFG|https://practice.geeksforgeeks.org/problems/merge-sort/1|Divide & Conquer|
 |21|Quick Sort Recursive|GFG|https://practice.geeksforgeeks.org/problems/quick-sort/1|Partition Recursion|
 |22|Subset Sum Recursive|GFG|https://practice.geeksforgeeks.org/problems/subset-sum-problem/1|Choice Recursion|
-|23|Print Permutations|GFG|https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/1|String Backtracking|
+|23✅|Print Permutations|GFG|https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/1|String Backtracking|
 |24|Nth Fibonacci Optimized|GFG|https://practice.geeksforgeeks.org/problems/nth-fibonacci-number/1|Memoization Intro|
 |25|Decimal to Any Base|GFG|https://practice.geeksforgeeks.org/problems/convert-to-any-base/1|Multi-Base Recursion|
 |26|Binary to Decimal Recursive|GFG|https://practice.geeksforgeeks.org/problems/binary-to-decimal/1|Base Conversion|
